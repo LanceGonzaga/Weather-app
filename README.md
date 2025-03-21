@@ -11,6 +11,12 @@ This weather app allows users to view the current weather information for any lo
 - **Temperature Units**: Shows the temperature in Celsius
 - **Responsive Design**: The app is designed to be mobile-friendly and adapts to different screen sizes.
 
+## Usage of useState and useEffect
+
+- **useState: Manages state in a functional component. In your case, it holds the weather data, loading state, and error messages.
+- **useEffect: Runs side effects, such as fetching data. In your case, it triggers the search function on the initial render to fetch weather data for "Cainta."
+
+
 ## Set up
 
 1. First you need to download the files or clone it then open the folder using VScode
