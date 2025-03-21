@@ -13,8 +13,8 @@ This weather app allows users to view the current weather information for any lo
 
 ## Usage of useState and useEffect
 
-- **useState: Manages state in a functional component. In your case, it holds the weather data, loading state, and error messages.
-- **useEffect: Runs side effects, such as fetching data. In your case, it triggers the search function on the initial render to fetch weather data for "Cainta."
+- **useState**: Manages state in a functional component. In your case, it holds the weather data, loading state, and error messages.
+- **useEffect**: Runs side effects, such as fetching data. In your case, it triggers the search function on the initial render to fetch weather data for "Cainta."
 
 
 ## Set up
