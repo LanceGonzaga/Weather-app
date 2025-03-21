@@ -16,10 +16,13 @@ This weather app allows users to view the current weather information for any lo
 - **useState**: Manages state in a functional component. In your case, it holds the weather data, loading state, and error messages.
 - **useEffect**: Runs side effects, such as fetching data. In your case, it triggers the search function on the initial render to fetch weather data for "Cainta."
 
+## Hosted Vercel Page Link
 
-## Set up
+- https://my-weather-app-v1.vercel.app/
 
-1. First you need to download the files or clone it then open the folder using VScode
+## Set up if you download the folder
+
+1. download the files or clone it then open the folder using VScode
 2. run ``npm install`` in the terminal
 3. run ``npx vite`` to start and get the webpage link
 
