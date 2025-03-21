@@ -10,7 +10,6 @@ This weather app allows users to view the current weather information for any lo
 - **Search by Location**: Allows users to search for the weather in any city globally.
 - **Temperature Units**: Shows the temperature in Celsius
 - **Responsive Design**: The app is designed to be mobile-friendly and adapts to different screen sizes.
-- **Responsive Design**: The app is designed to be mobile-friendly and adapts to different screen sizes.
 
 ## Set up
 
